@@ -1,0 +1,5 @@
+ADD_CHILD Anga Madhu Female
+GET_RELATIONSHIP Anga Daughter
+ADD_CHILD Chitra Aria Female
+GET_RELATIONSHIP Lavnya Maternal-Aunt
+GET_RELATIONSHIP Aria Siblings
